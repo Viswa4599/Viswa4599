@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Viswa4599
-- 👀 I’m interested in Machine Learning / AI/ Deep Learning and it's application in Health and Safety
-- 🌱 I’m currently learning advancd Deep Learning models like Transformers, GANs, etc
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👀 AI
+- 🌱 Building AI Personas
 - 📫 How to reach me : viswajitnair@gmail.com, vv2339@columbia.edu
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Suo, I’m @Viswa4599
+- 👋 Sup, I’m @Viswa4599
 - 🌱 Building the future of social entertainment @4WallAI
 - 📫 How to reach me : @badboyvivi on X
 

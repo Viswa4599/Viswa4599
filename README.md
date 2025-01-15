@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Viswa4599
-- 👀 AI
-- 🌱 Building AI Personas
-- 📫 How to reach me : viswajitnair@gmail.com, vv2339@columbia.edu
+- 👋 Suo, I’m @Viswa4599
+- 🌱 Building the future of social entertainment @4WallAI
+- 📫 How to reach me : @badboyvivi on X
 
 <!---
 Viswa4599/Viswa4599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

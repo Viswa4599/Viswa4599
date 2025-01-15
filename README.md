@@ -1,5 +1,5 @@
 - 👋 Sup, I’m @Viswa4599
-- 🌱 Building the future of social entertainment @4WallAI
+- 🌱 Redefining social with AI
 - 📫 How to reach me : @badboyvivi on X
 
 <!---
